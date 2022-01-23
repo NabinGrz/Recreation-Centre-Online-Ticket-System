@@ -1,0 +1,17 @@
+C:\.NET PROJECTS\College\Coursework\Coursework\bin\Debug\Coursework.exe.config
+C:\.NET PROJECTS\College\Coursework\Coursework\bin\Debug\Coursework.exe
+C:\.NET PROJECTS\College\Coursework\Coursework\bin\Debug\Coursework.pdb
+C:\.NET PROJECTS\College\Coursework\Coursework\obj\Debug\Coursework.csproj.AssemblyReference.cache
+C:\.NET PROJECTS\College\Coursework\Coursework\obj\Debug\Coursework.Form1.resources
+C:\.NET PROJECTS\College\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\.NET PROJECTS\College\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\.NET PROJECTS\College\Coursework\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\.NET PROJECTS\College\Coursework\Coursework\obj\Debug\Coursework.exe
+C:\.NET PROJECTS\College\Coursework\Coursework\obj\Debug\Coursework.pdb
+C:\.NET PROJECTS\College\Coursework\Coursework\bin\Debug\Newtonsoft.Json.dll
+C:\.NET PROJECTS\College\Coursework\Coursework\bin\Debug\Newtonsoft.Json.xml
+C:\.NET PROJECTS\College\Coursework\Coursework\obj\Debug\Coursework.csproj.CopyComplete
+C:\.NET PROJECTS\College\Coursework\Coursework\obj\Debug\Coursework.reportChart.resources
+C:\.NET PROJECTS\College\Coursework\Coursework\obj\Debug\Coursework.Form2.resources
+C:\.NET PROJECTS\College\Coursework\Coursework\obj\Debug\Coursework.VisitorsDashboard.resources
+C:\.NET PROJECTS\College\Coursework\Coursework\obj\Debug\Coursework.AdminReport.resources
